@@ -104,9 +104,7 @@ Possible levels: `DEBUG`, `INFO`, `WARNING`, `ERROR`, `CRITICAL`.
 - **Asynchronous Processing**: Offload time-consuming tasks using **Celery** or **RQ** for non-blocking responses.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the CC0 License.
 
----
 
-Feel free to contribute or raise issues via GitHub!
 
